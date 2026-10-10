@@ -1,0 +1,11 @@
+.git
+.github
+__pycache__
+*.pyc
+.venv
+venv
+tests
+*.db
+.pytest_cache
+Jenkinsfile
+README.md
