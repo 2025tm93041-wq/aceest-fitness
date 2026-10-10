@@ -93,3 +93,5 @@ clean, controlled environment.
 ## Version history
 The repository history mirrors the evolution of the original application
 (v1.0 program viewer → v3.2.4 full management suite) plus infrastructure commits.
+
+Author: 2025tm93041 - BITS Pilani, Introduction to DevOps
