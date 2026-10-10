@@ -17,7 +17,7 @@ DevOps pipeline: **Git → Pytest → Docker → Jenkins → GitHub Actions**.
 ## Local setup
 
 ```bash
-git clone https://github.com/<your-username>/aceest-fitness.git
+git clone https://github.com/2025tm93041-wq/aceest-fitness.git
 cd aceest-fitness
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
